@@ -19,7 +19,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Sharath Kumar a <b>Software Engineer.</b><br>
+    Hello, I am Sharath Kumar an <b>AI Engineer.</b><br>
     <b>Focused on creating intelligent agentic workflows powered by LLMs, Knowledge Graphs, and RAG systems, uncovering insights that drive smarter decision-making.</b>
   </em> 
   <br>
@@ -34,14 +34,14 @@
 
 ✔ I’m currently pursuing my Masters in Computer Science at <b>University Of Illinois at Chicago (UIC)</b><br>
 ✔ I'm currently learning about **Knowledge Graphs, RAG pipelines, and AI Agents**.<br>
-✔ Ex-AI Engineer Intern @**PartsTown**.<br>
+✔ Ex-AI Engineer Intern at **[PartsTown](https://www.linkedin.com/company/parts-town/posts/?feedView=all)**.<br>
 
 
   <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***My Arsenal . . . .***
   <br>
-   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 <br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
