@@ -32,7 +32,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me . . . .***
 
 
-✔ I’m currently pursuing my Masters in Computer Science at <b>University Of Illinois at Chicago (UIC)</b><br>
+✔ I’m currently pursuing my MS in Computer Science at <b>University Of Illinois at Chicago (UIC)</b><br>
 ✔ I'm currently learning about **Knowledge Graphs, RAG pipelines, and AI Agents**.<br>
 ✔ Ex-AI Engineer Intern at **[PartsTown](https://www.linkedin.com/company/parts-town/posts/?feedView=all)**.<br>
 
