@@ -8,14 +8,11 @@
   <h3 align="center">AI Engineer | Software Developer | ML Enthusiast </h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/sharath0524/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111465.png" alt="linkedin" height="40" width="40" /></a>  
-<!--     <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
-     <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a> -->
+  </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sharathkum05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </p>
 </p>
-
-
 
 <p align="center">
   <em>
@@ -32,7 +29,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me . . . .***
 
 
-✔ I’m currently pursuing my MS in Computer Science at <b>University Of Illinois at Chicago (UIC)</b><br>
+✔ I'm currently pursuing my MS in Computer Science at <b>University Of Illinois at Chicago (UIC)</b><br>
 ✔ I'm currently learning about **Knowledge Graphs, RAG pipelines, and AI Agents**.<br>
 ✔ Ex-AI Engineer Intern at **[PartsTown](https://www.linkedin.com/company/parts-town/posts/?feedView=all)**.<br>
 
@@ -63,16 +60,3 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  <!-- 
-  <br><br><br><br><br>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishchal-007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lol"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Nishchal-007&show_icons=true&locale=en&theme=chartreuse-dark" alt="lol" width="410" /></p>
-<hr>
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Nishchal-007&theme=juicyfresh&no-bg=true" />
- -->
